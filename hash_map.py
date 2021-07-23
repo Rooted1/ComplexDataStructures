@@ -1,3 +1,5 @@
+# using open addressing: Linear Probing to resolve collision
+
 class HashMap:
   def __init__(self, array_size):
     self.array_size = array_size
